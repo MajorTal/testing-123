@@ -6,3 +6,4 @@ Created on Aug 28, 2011
 
 if __name__ == '__main__':
     print "Hello master branch"
+    print 7
